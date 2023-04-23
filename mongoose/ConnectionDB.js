@@ -1,7 +1,7 @@
 // npm i mongoose
 import mongoose from "mongoose";
 
-// MONGODB_URI = mongodb+srv://dilshad:mongopass@cluster0.i4rydma.mongodb.net/
+// MONGODB_URI = mongodb+srv://dfs:sdfdsf@cluster0.sdfds.mongodb.net/
 
 const MONGODB_URI = process.env.MONGODB_URI + "my-database3";
 
